@@ -23,3 +23,5 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=erraen57&show_icons=true&locale=tr" alt="erraen57" /></p>
 
 
+
+![snake gif](https://github.com/ErrAEN57/ErrAEN57/blob/output/github-contribution-grid-snake.gif)
