@@ -12,7 +12,7 @@
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://instagram.com/eren_metin.57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eren_metin.57" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/erraena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erraena" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/erraena](https://www.youtube.com/@ErrAENA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erraena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
