@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://img.tamindir.com/2023/01/476730/yazilim-gelistirici.jpg))
+[![MasterHead]([(https://img.tamindir.com/2023/01/476730/yazilim-gelistirici.jpg)]).
 
 <h1 align="center">Merhaba 👋, ben Eren</h1>
 <h3 align="center">Türkiye'de bir oyun geliştiricisiyim</h3>
